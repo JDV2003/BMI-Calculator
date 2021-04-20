@@ -1,0 +1,18 @@
+ion-content {
+  background: linear-gradient(to bottom, #000046, #1CB5E0);
+}
+  
+
+
+
+
+h2 {
+  font-family: Arial Rounded MT Bold, sans-serif;
+  color :#1CB5E0
+}
+
+p {
+  font-family: Lucida sans, sans-serif;
+  text-align: justify;
+  color :#FFFFFF
+}
